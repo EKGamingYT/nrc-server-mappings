@@ -1,0 +1,18 @@
+{
+  "server-address": [
+    "echo-universe.de"
+  ],
+  "pretty-name": "Echo-Universe",
+  "categorys": [
+    "PVP",
+    "SURVIVAL",
+    "MINIGAMES",
+    "BUILD",
+    "CUSTOM",
+    "CITYBUILD"
+  ],
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  }
+}
